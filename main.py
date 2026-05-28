@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 from telegram.request import HTTPXRequest
 
 # ТОКЕН БОТА - ВАШ ТОКЕН
-BOT_TOKEN = "8509756769:AAELHw_3OPvfomZA8jIwFZ9OWXXTvReCijQ"
+BOT_TOKEN = ""
 
 # Состояния для Wi-Fi ConversationHandler
 WAITING_FOR_ENCRYPTION, WAITING_FOR_SSID, WAITING_FOR_PASSWORD = range(3)
